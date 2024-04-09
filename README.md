@@ -2,15 +2,16 @@
 
 ###
 
-<p align="left">I am finishing my studies in the master of Data Science in UNIPD</p>
+<p align="left">I am finishing my studies in the Master of Science in Data Science in UNIPD</p>
 
 ###
 
-<p align="left">📚 I'm currently working on my thesis.
+<p align="left"> 📚I'm Industrial Engineering and master in Financial Management.
+<br> 🔭 I'm currently working on my thesis.
 <br>  🌱 I’m currently learning about Transportation Networks.
 <br>🎯 My main interests are in Economics, Data mobility and Medical applications.
-<br>🎲 My focus is on advanced statistical and macine learning techniques.
-<br>⚡ I can speak a little of German. </p>
+<br>🎲 My focus is on advanced statistical and machine learning techniques.
+<br>⚡ I can speak some German. </p>
 
 ###
 
