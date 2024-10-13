@@ -6,10 +6,9 @@
 
 ###
 
-<p align="left"> 📚I'm Industrial Engineering and master in Financial Management.
-<br> 🔭 I'm currently working on my thesis.
+<p align="left"> 📚I'm Industrial Engineering with Master's Degrees in Finance and Data Science.
 <br>  🌱 I’m currently learning about Transportation Networks.
-<br>🎯 My main interests are in Economics, Data mobility and Medical applications.
+<br>🎯 My main interests are in Data Science, Economics, Data mobility and Medical applications.
 <br>🎲 My focus is on advanced statistical and machine learning techniques.
 <br>⚡ I can speak some German. </p>
 
