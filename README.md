@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am finishing my studies in the Master of Science in Data Science in UNIPD</p>
+<p align="left">I am a Data Scientist with Master's Degrees in Finance and Data Science </p>
 
 ###
 
