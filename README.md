@@ -10,7 +10,7 @@
 <br>  🌱 I’m currently learning about Transportation Networks.
 <br>🎯 My main interests are in Data Science, Economics, Data mobility and Medical applications.
 <br>🎲 My focus is on advanced statistical and machine learning techniques.
-<br>⚡ I can speak some German. </p>
+<br>⚡ I can speak some German and Italian. </p>
 
 ###
 
